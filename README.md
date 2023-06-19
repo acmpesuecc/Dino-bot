@@ -5,9 +5,9 @@ This repository contains the implementation of a reinforcement learning (RL) mod
 The Chrome Dino game is a popular side-scrolling game where the player controls a running dinosaur to avoid obstacles and collect points. The RL model interacts with the game environment, observes the game state, and takes actions to maximize the cumulative reward.
 
 # Dependencies
-* Python 3.x  
-* PyTorch  
-* stable-baselines3  
+*Python 3.x  
+*PyTorch  
+*stable-baselines3  
 
 # Installation
 
